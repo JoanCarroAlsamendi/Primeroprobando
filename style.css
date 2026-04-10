@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+nav{
+    text-align: center;
+}
+
+header{
+    background-color: #718171;
+}
+
+h2{
+    text-align: center;
+}
+section{
+    height: 100vh;   
+}
+
+#inicio{
+    background-color: #8f8f8f;
+}
+
+#sobre_mi{
+    background-color: #8d4d4d;
+}
+
+#contacto{
+    background-color: #323d32;
+}
+
+#servicios{
+    background-color: #718171;
+}
+
+footer{
+    background-color: darkred;
+    text-align: center;
+}
